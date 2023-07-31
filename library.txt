@@ -1,0 +1,27 @@
+change vessel to vessel roll /Advance
+pick-up to pos date/depot change
+change container type to container type change
+reduce container to reduce container 
+OOG to DG/OOG
+Routing to Routing change
+Change positioning date to pos date(CH)
+Loading to Loading reference 
+Increase container to increase container
+Cancellation to cancellation
+Change reefer setup to reefer setup 
+Change destination to Routing change
+Conatainer swap to container swap
+Change customer ref to customer reference
+p/u to pos date/depot change
+amend to  to container type change
+Change Cargo Weight to Weight Change
+Change SOC Information to SOC Information
+CANCEL to cancellation
+Release to pos date/depot change
+STORNO TO cancellation
+reduzieren to reduce container
+Freistellung to pos date/depot change
+Bitte Buchung schieben to vessel roll /Advance
+Pls rebook to vessel roll /Advance
+Buchung bitte vorziehen to vessel roll /Advance
+Pick up to pos date/depot change
